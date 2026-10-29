@@ -1,0 +1,362 @@
+{
+  "mode": "localoptions",
+  "version": 1,
+  "url": "https://7-y.xyz/the-chicago-plumber",
+  "business": {
+    "name": "The Chicago Plumber",
+    "trade": "Plumbing",
+    "street": "210 N Racine Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60607",
+    "phone": "(847) 809-2341",
+    "email": "info@7-y.xyz",
+    "social": {}
+  },
+  "services": [
+    {
+      "slug": "drain-cleaning",
+      "name": "Drain Cleaning",
+      "stance": "noticed",
+      "h1": "Drain Cleaning in Chicago, IL",
+      "title": "Drain Cleaning Chicago, IL | The Chicago Plumber",
+      "meta": "We clear slow, blocked, and odor-producing drains in Chicago, IL, checking fixtures, cleanouts, and drain lines to locate the source of a backup.",
+      "blurb": "Clearing slow, blocked, gurgling, and odor-producing drains across Chicago.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "A sink that gurgles after the faucet is off, a tub that holds dirty water around the drain, or a sewer smell near the floor drain usually means water is not moving through the pipe as it should. Grease, soap residue, hair, food waste, scale, and debris can narrow a branch line until the fixture begins draining slowly or sending water back toward the room.",
+            "We check the affected fixture, the trap, the drain opening, and any available cleanout to locate where the restriction begins. A blockage close to a sink or shower may be limited to the trap arm, while water backing up through a basement floor drain can point farther down the building drain or sewer line.",
+            "A mildly slow sink can usually wait for a planned visit if no water is rising elsewhere. Standing wastewater, a floor drain backup, repeated overflow, or water returning through another fixture should not wait, because a blocked drain line can send contaminated water onto flooring, cabinets, and walls."
+          ]
+        },
+        {
+          "heading": "Gurgling sinks and drain odors",
+          "paragraphs": [
+            "We hear about sinks that make a gulping sound, showers that fill around the ankles, kitchen basins that empty only after several minutes, and toilets that bubble when a washing machine or nearby faucet drains. A rotten-egg or sewer odor from a bathroom drain can also come from stagnant debris in the trap or from a drain line that is not venting or flowing properly.",
+            "A kitchen sink that backs up after dishes, a tub drain clogged with hair, and a floor drain that sends water onto concrete may look similar from the room, but the restriction can be in very different pipe sections. We inspect the fixture and drain route before recommending work, because a trap blockage, grease buildup, root intrusion, and a damaged sewer line require different tools and lead to different repair needs."
+          ]
+        },
+        {
+          "heading": "Drain camera inspection",
+          "paragraphs": [
+            "At a drain callout, we first run water at the affected fixture and check how quickly the basin, tub, or floor drain clears. We inspect the stopper, strainer, trap, visible drain pipe, and accessible cleanout, then use a cable machine or camera when the blockage is beyond the fixture connection. A basic flow check and access inspection can take about 20 to 40 minutes, while tracing a longer drain line with a camera takes longer depending on the pipe route and cleanout access.",
+            "For many sink, shower, and floor drain clogs, we can clear the line through the drain opening or cleanout during the same visit. We may remove packed hair, soap buildup, grease, or debris from a trap, and we can replace a damaged trap washer or cleanout cap when inspection shows it is needed. If the camera shows a collapsed pipe, roots in a buried line, or a section behind a finished wall, we explain the location and arrange separate work rather than opening walls or excavating without a defined scope."
+          ]
+        },
+        {
+          "heading": "Pipe access and blockage depth",
+          "paragraphs": [
+            "The fixture involved, the pipe material, and the distance to the blockage all affect the work required. A sink trap under an open cabinet is generally simpler to reach than a cleanout behind drywall, under a finished basement ceiling, or in a locked utility room. Grease in a kitchen branch, scale inside older cast iron, and roots in an exterior sewer line also call for different cleaning methods and inspection steps.",
+            "Access to a working cleanout can reduce the need to work through a fixture drain, while a seized cleanout plug or corroded pipe may need careful removal before the line can be cleaned. A camera inspection may be needed when a blockage returns or when water backs up at more than one fixture. If a building manager, condominium association, or city requirement calls for approval or sign-off before work on a shared drain line, that coordination can also change the scope."
+          ]
+        },
+        {
+          "heading": "Fixture location and cleanout access",
+          "paragraphs": [
+            "Before calling, note which fixture is slow or backing up, such as the kitchen sink, second-floor tub, laundry standpipe, or basement floor drain. Tell us whether another sink, toilet, or shower causes the affected drain to gurgle or fill, since that helps us narrow the shared pipe route. If you know where the cleanout is located, such as beside the water meter, near the basement floor drain, or outside the building, let us know whether it is accessible. Mention any recent drain chemical, disposal use, grease spill, renovation debris, or repeated clog, because those materials can affect the cable and camera work. Call us at (847) 809-2341 before wastewater reaches the floor, since a drain backup can spread farther through the room as the pipe remains blocked."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "water-heater-repair",
+      "name": "Water Heater Repair",
+      "stance": "two-jobs",
+      "h1": "Water Heater Repair in Chicago, IL",
+      "title": "Water Heater Repair | Chicago, IL",
+      "meta": "We diagnose water heater leaks, cold water, pilot and element faults in Chicago, IL, with clear checks of the tank, valve, and controls at home.",
+      "blurb": "Water heater diagnosis and repair for tanks that leak, run cold, or make noise.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "Two calls often get described as a broken water heater, but they are not the same job. A dry utility-room floor with cold water at the shower or kitchen faucet points us toward a heating, control, burner, or element fault. A puddle beside the tank, a steady drip from the relief valve pipe, or water staining the floor near the heater points us toward a leak or pressure problem instead.",
+            "We handle both situations across Chicago, Cicero, Stickney, and Oak Park. On a gas unit, we check the pilot, burner, vent connection, gas control, and temperature setting. On an electric tank, we check the disconnect, reset, thermostats, heating elements, wiring terminals, and tank connections before deciding which part has failed.",
+            "A tank that is only producing lukewarm water may allow time for a planned repair, provided there is no leak, smoke, burning odor, or electrical issue. Water on the floor, discharge from the temperature-and-pressure relief valve, a gas odor, or a hot electrical cover should not wait, because a failing tank, valve, burner, or wire can damage the surrounding room or create a safety issue."
+          ]
+        },
+        {
+          "heading": "No hot water or water on floor",
+          "paragraphs": [
+            "When you call about no hot water, we ask whether every faucet is cold or whether the water starts hot and turns cold after a few minutes. A short burst of hot water can come from a failed lower heating element, a thermostat problem, a broken dip tube, or heavy sediment taking up space inside the tank.",
+            "Water on the floor may be a loose supply connector, a leaking drain valve, a relief-valve discharge pipe, condensation around the flue, or corrosion through the tank jacket. A popping or rumbling sound during a heating cycle often comes from mineral sediment at the bottom of the tank, while a pilot that will not stay lit points us toward the thermocouple, pilot assembly, gas control, venting, or combustion air.",
+            "Other calls involve rusty hot water, a breaker that trips when the heater runs, a burner that lights and then shuts down, or a temperature that is far hotter than the faucet setting suggests. Those symptoms can sound alike from the kitchen or hallway, but we separate the tank, control, valve, electrical, and burner faults because each repair uses different parts and labor."
+          ]
+        },
+        {
+          "heading": "Tank and burner inspection",
+          "paragraphs": [
+            "During an inspection, we first identify the fuel type, tank size, model label, visible leaks, and shutoff locations. We inspect the cold-water inlet, hot-water outlet, drain valve, relief valve, dielectric fittings, expansion tank where present, and the floor around the base of the heater. On a gas model, we inspect the pilot flame, burner compartment, vent pipe, draft hood, and gas control; on an electric model, we isolate power before checking the reset, wire connections, thermostats, and elements.",
+            "We can measure outlet water temperature at a nearby faucet and compare the heater setting with the water leaving the tank. Many homes use a stored-water setting around 120°F to limit scalding, although the correct setting depends on the household and equipment. We may test voltage and element continuity on an electric heater, or use a manometer when a gas-pressure check is needed as part of the diagnosis. A straightforward inspection commonly takes 30 to 60 minutes, while a tank with active leakage, buried access, or multiple failed components takes longer to trace safely.",
+            "When the matching part is available, we can often replace items such as a thermostat, heating element, thermocouple, pilot component, relief valve, or supply connector during the same visit. A corroded tank, a specialty control that must be ordered, major vent changes, or a full tank replacement is generally scheduled as separate work because the old unit, water connections, venting, and installation space all need to be addressed together."
+          ]
+        },
+        {
+          "heading": "Anode rods, shutoffs, and access",
+          "paragraphs": [
+            "The condition and age of the tank matter because a worn internal anode rod, a rusted drain valve, or corrosion at the water connections can make a small symptom part of a larger tank problem. A newer heater with a failed thermostat or pilot component is often a different repair from an older tank with rust beneath the jacket or moisture around the base.",
+            "Access also changes the scope of the work. A heater in an open basement utility area gives us room for a drain hose, meter, hand tools, and replacement part, while a tank in a tight closet, finished enclosure, or low-clearance alcove can require extra setup. Clearance above the tank is especially important when an anode rod needs to be removed.",
+            "A seized water shutoff can add work because the supply must be controlled before certain valves or connections can be replaced. If the required control, burner assembly, or manufacturer-specific part is no longer stocked and has to be ordered, the repair may need a return visit. We also account for permit or inspection sign-off when replacement, venting, or fuel connections require it for the property."
+          ]
+        },
+        {
+          "heading": "Model plate and tank age",
+          "paragraphs": [
+            "Before you call, look for the model and serial number on the rating plate attached to the side of the tank jacket, often near the gas control or electrical access panel. We also need the approximate age of the heater, whether it is gas or electric, and the room where the tank is installed. Tell us whether water is actively running from the relief pipe, drain valve, top connections, or base of the tank. If you can safely see the access route, let us know about basement stairs, a utility closet, low ceiling clearance, or an enclosure around the heater. Call us at (847) 809-2341 with the plate information, since an active tank leak can spread across the floor and damage the tank base, wall, and nearby materials while it waits."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "toilet-repair",
+      "name": "Toilet Repair",
+      "stance": "timing",
+      "h1": "Toilet Repair in Chicago, IL",
+      "title": "Toilet Repair Chicago, IL | The Chicago Plumber",
+      "meta": "We diagnose running toilets, weak flushes, leaks, and loose seats across Chicago, IL, checking tank parts, bowls, valves, and supply lines in homes.",
+      "blurb": "Running toilet, weak flush, leak, or loose seat repair across Chicago.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "A toilet that keeps running may start as a faint refill sound after flushing, then become a tank that never stops sending water into the bowl. Over a week, a worn flapper can let water pass every few minutes. Over a month, a fill valve that fails to close can keep cycling, and a small leak at the tank bolts can leave moisture under the toilet or along the bathroom floor.",
+            "A weak flush can also change from an occasional double flush into a bowl that rises too high, leaves paper behind, or will not clear at all. If the toilet rocks when someone sits down, the movement can disturb the wax ring beneath the bowl and allow water or sewer odor to reach the floor around the base.",
+            "We check toilets in Chicago, Cicero, Stickney, and Oak Park for the tank fault, bowl problem, or base leak behind the symptom. A slow refill or minor handle issue can usually be planned, but an overflowing bowl, water at the base, or a toilet that will not flush should not wait because the bathroom floor, wax seal, and surrounding room can be affected."
+          ]
+        },
+        {
+          "heading": "Running water and weak flush",
+          "paragraphs": [
+            "When we hear “the toilet keeps running,” we look at the flapper, flush valve seat, chain, overflow tube, and fill valve inside the tank. Water that moves into the bowl after the tank has filled often points to a flapper or flush valve sealing issue. A tank that hisses, refills on its own, or sends water into the overflow tube can point instead to the fill valve or water-level adjustment.",
+            "“The toilet will not flush,” “the flush is weak,” “the bowl fills too high,” and “there is water around the bottom” are different calls with different checks. A weak flush may involve the handle, lift chain, tank water level, rim holes, or bowl passage, while a wet base can come from tank bolts, a supply connection, condensation, or the seal below the bowl. We sort out the actual failed part before recommending work, since symptoms that sound alike on the phone can involve separate repairs and different material needs."
+          ]
+        },
+        {
+          "heading": "Tank and bowl inspection",
+          "paragraphs": [
+            "During an inspection, we shut off the water when needed, remove the tank lid, flush the fixture, and check the fill valve, flapper, chain, trip lever, overflow tube, tank bolts, supply line, and shutoff valve. We inspect the bowl and base for movement, cracks, water marks, and failed caulk or seal material. We also check the tank water level against the overflow tube or manufacturer mark; on many toilets, the water sits about 1 inch below the top of the overflow tube. If the fill behavior suggests a supply issue, we can check water pressure, which should generally remain below 80 psi in a residential plumbing system.",
+            "A straightforward tank repair, such as replacing a flapper, fill valve, handle, chain, or supply connector, can often be completed during the same visit and commonly takes 30 to 60 minutes once the fault is identified. Resetting a loose toilet, dealing with a seized shutoff, replacing a damaged flange, or sourcing a discontinued flush valve, tank lid, or matching bowl may need a separate visit. We explain which component is failing and whether the repair is limited to tank hardware or reaches the connection beneath the toilet."
+          ]
+        },
+        {
+          "heading": "Fill valve age and shutoff access",
+          "paragraphs": [
+            "The age and type of the tank hardware affect the scope of a repair. A common flapper or fill valve in an accessible tank is different from an older flush valve that requires the tank to be removed, or a proprietary part that matches only one toilet model. A brittle rubber gasket, corroded tank bolt, or cracked overflow tube can also turn a single-part repair into work on several connected pieces.",
+            "Access to the shutoff valve and the condition of the toilet connection matter as well. A shutoff that closes normally gives us a clean way to isolate the fixture, while a seized valve, hidden stop, corroded supply line, or toilet set tightly against tile can add work around the repair. If a loose bowl exposes a damaged flange or piping below the floor, the material, access route, and any required building sign-off can change the work beyond a tank repair."
+          ]
+        },
+        {
+          "heading": "Tank model and bowl location",
+          "paragraphs": [
+            "Before calling, check the toilet model number inside the tank, on the rear tank wall, or beneath the tank lid if it is printed there. Let us know which bathroom holds the fixture, whether it is a one-piece or two-piece toilet, and roughly when the toilet or tank hardware was installed. Tell us whether water is running into the bowl now, whether the bowl is backing up, and whether water appears at the tank, supply line, or base. If the shutoff valve is behind a cabinet, boxed-in wall, or finished panel, mention that access before the visit. Call us at (847) 809-2341, especially if water is reaching the toilet base, because a failed seal can damage the floor beneath the bowl while a running valve continues sending water through the fixture."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "faucet-repair",
+      "name": "Faucet Repair",
+      "stance": "what-it-costs-to-wait",
+      "h1": "Faucet Repair in Chicago, IL",
+      "title": "Faucet Repair Chicago, IL | The Chicago Plumber",
+      "meta": "Faucet repair in Chicago, IL for dripping spouts, loose handles, low flow, and leaks at the base. Call The Chicago Plumber at (847) 809-2341.",
+      "blurb": "We fix drips, loose handles, low flow, and leaks around faucets.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "Most people start by tightening a loose handle, wiping mineral scale from the aerator, or turning the under-sink stop valve off and back on. Those steps make sense: a clogged screen or a handle screw can cause weak flow or wobble without a major fault. Yet a drip that returns after the handle is snug, or water that comes from beneath the faucet, usually has a worn seal, cartridge, or connection behind it.",
+            "That is where we come in. We work on kitchen sinks, bathroom basins, laundry faucets, and utility taps, tracing the water to the spout, handle stem, supply line, or mounting hardware rather than replacing parts by guesswork. A faucet can leak from the tip while the actual worn piece sits inside the handle, and a wet cabinet can begin with a failed supply connection instead of the faucet body.",
+            "A faucet that only drips into the sink can usually be scheduled, but water collecting under the cabinet or running from the handle should not wait. Water at the base can swell cabinet panels, stain flooring, and reach the shutoff valves and supply hoses below the sink."
+          ]
+        },
+        {
+          "heading": "Dripping spout and loose handle",
+          "paragraphs": [
+            "We hear about a faucet that drips after it is turned off, a handle that spins or feels loose, and a stream that has gone weak while the rest of the house has normal water flow. Other calls involve water coming out around the handle, a spray that shoots sideways from the aerator, or a puddle around the base of the faucet after the sink is used. Hot water only, cold water only, or a leak on both sides also helps narrow down the valve inside the fixture.",
+            "A drip at the spout can point to a cartridge, washer, or valve seat, while a leak around the handle may be an O-ring or packing seal. Low flow may be mineral buildup in the aerator, debris in the supply path, or a restriction inside the cartridge. These symptoms can look similar from the counter, but the failed part, access to it, and work involved are not necessarily the same."
+          ]
+        },
+        {
+          "heading": "Faucet inspection visit",
+          "paragraphs": [
+            "We start by identifying the faucet make, handle style, and the room fixture, then test the hot and cold sides separately. We check the spout, aerator, handle movement, base, supply hoses, shutoff valves, and the underside of the sink cabinet for moisture. When needed, we time the water flow for sixty seconds and check pressure at a suitable threaded connection; residential plumbing pressure is generally kept below eighty psi.",
+            "We isolate the water, remove the handle and trim, and inspect the cartridge, O-rings, washers, retaining clip, and valve body for wear or mineral buildup. A straightforward aerator, cartridge, seal, or supply-line repair often takes thirty to sixty minutes once the water is shut off and the matching part is available. We can usually complete accessible repairs during the visit, while a discontinued cartridge, specialty finish, replacement faucet, or concealed valve issue may need a separate booking after the correct part is located."
+          ]
+        },
+        {
+          "heading": "Cartridge age and seized shutoffs",
+          "paragraphs": [
+            "The age and design of the cartridge matter because older faucet lines can use parts that are no longer stocked locally, while some current fixtures use brand-specific stems, clips, and seals. A single-handle faucet with an accessible cartridge is different from a wall-mounted fixture or a faucet with its valve body hidden behind tile. Corrosion around the handle, mounting nut, or retaining clip can also add disassembly work before the worn part can be reached.",
+            "Access below the sink is another factor. A shutoff valve that turns freely allows us to isolate the fixture cleanly, but a seized or leaking stop valve may need attention before faucet work can proceed. A part that must be ordered, a building water shutoff, or approval from a property manager can also affect the scope, especially in a condo or multi-unit building."
+          ]
+        },
+        {
+          "heading": "Model numbers and faucet location",
+          "paragraphs": [
+            "Before calling, note which room has the faucet and whether it is the kitchen sink, bathroom basin, laundry sink, or utility tap. If you can, look for the brand name on the spout or handle and the model number on the original paperwork, installation sheet, or underside of the fixture trim. Let us know whether the drip is running now, whether it is hot, cold, or both, and whether water is appearing inside the cabinet. A clear photo of the handle, spout, and space around the shutoff valves can help us identify the cartridge and plan access. Call us at (847) 809-2341 before water under the faucet swells the cabinet base or damages the flooring around the sink."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "pipe-leak-repair",
+      "name": "Pipe Leak Repair",
+      "stance": "who-calls",
+      "h1": "Pipe Leak Repair in Chicago, IL",
+      "title": "Pipe Leak Repair Chicago, IL | The Chicago Plumber",
+      "meta": "We trace and repair leaking water pipes in Chicago, IL, checking walls, ceilings, valves, and accessible lines to locate the source of moisture.",
+      "blurb": "Pipe leak tracing and repair for walls, ceilings, valves, and water lines.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "People usually call us after finding “water on the floor,” “a wet spot in the ceiling,” or “a drip behind the wall.” Those are customer descriptions, but they can point to a split water line, a loose compression fitting, a failed valve stem, or moisture traveling along a pipe before it reaches the drywall. We start with where the water appeared, which fixture was being used, and whether the water meter moves when every faucet is off.",
+            "A pipe leak does not always arrive as a visible stream. A brown ceiling mark below a bathroom, peeling paint beside a kitchen cabinet, a warm patch on a slab, or a musty odor in a utility room can all come from water escaping at a joint. We check the pipe route, nearby shutoffs, fittings, and the surrounding wall or ceiling material rather than assuming the closest fixture is the source.",
+            "An active leak should not wait because water can soak framing, insulation, drywall, flooring, and electrical areas while the visible stain stays small. A dry mark from an old event may allow for investigation before repairs, but water that is running, spreading, or making the meter turn needs to be located and stopped."
+          ]
+        },
+        {
+          "heading": "Water on the floor",
+          "paragraphs": [
+            "“Water on the floor” can mean a supply tube under a sink has loosened, a copper elbow inside a wall has developed a pinhole, or a pipe above the ceiling has opened at a joint. The location of the puddle matters: water at the base of a cabinet often follows the cabinet frame from a higher fitting, while water below a ceiling light may have traveled along a joist before dropping through drywall.",
+            "Customers also report “a wet ceiling,” “a hissing sound,” “the wall feels damp,” or “the water bill jumped.” A faint hiss can come from pressurized water escaping through a small opening. A damp wall can be a hidden pipe leak, but it can also be condensation or water entering from another part of the building. A meter that continues to register use with fixtures off is another useful clue when the property has a dedicated water meter.",
+            "Rust-colored water around a valve, green staining on copper, white mineral residue at a threaded fitting, and a recurring damp patch are different signs with different likely sources. We do not treat every stain or puddle as the same repair: the pipe material, failed connection, wall access, and amount of water damage can change the work and the cost even when the symptom looks nearly identical from the room."
+          ]
+        },
+        {
+          "heading": "Leak inspection and repair",
+          "paragraphs": [
+            "Our leak inspection starts at the visible water, then follows the likely pipe route through the room, cabinet, ceiling, basement, or utility area. We inspect exposed copper, PEX, galvanized steel, valves, supply lines, joints, and nearby fixtures. We may isolate a branch with a shutoff, check the water meter, and use a pressure gauge to see whether the system loses pressure after water use is stopped. Residential water pressure is commonly kept within a range of about 40 to 80 psi, although the reading alone does not identify the exact leak location.",
+            "An initial inspection and isolation check often takes 30 to 60 minutes when the pipe and shutoff are accessible. A visible fitting, valve, supply line, or short exposed section of pipe can often be repaired on the same visit by shutting off the water, removing the failed part, fitting compatible pipe or connectors, and testing the joint under pressure. We protect the work area and confirm that the repair remains dry before restoring the water.",
+            "A concealed pipe may require a limited wall or ceiling opening to reach the damaged section. If the leak sits behind tile, inside a finished chase, beneath a slab, or near wiring, we explain the access needed before opening material. Larger pipe replacement, specialty fittings, extensive wall restoration, or work that requires coordination with building management may be scheduled separately after the source and route are confirmed."
+          ]
+        },
+        {
+          "heading": "Pipe access and shutoffs",
+          "paragraphs": [
+            "The repair scope changes with the pipe material and the age of the connection. A corroded galvanized section can require more replacement than a newer copper or PEX fitting, because disturbing one threaded joint may expose another weakened section. A small leak at an exposed compression valve is usually more direct to reach than a pinhole in a line behind plaster, tile, cabinetry, or a finished ceiling.",
+            "Access is often the largest difference between two leaks that look similar from the floor. A pipe in an open basement ceiling or under a removable sink cabinet gives us room for tools, replacement pipe, and a pressure test. A pipe behind a tiled shower wall, inside a chase, or above a finished room may require careful opening and later restoration by the appropriate trade.",
+            "A working shutoff lets us isolate the affected line with less disruption. If a shutoff has seized, is leaking at the stem, or no longer closes fully, it may need repair or replacement before we can safely work on the pipe. Building shutoffs, shared water lines, and condominium utility rooms can also affect access and coordination.",
+            "Parts that match an older valve, uncommon pipe size, or specific fitting may need to be ordered rather than substituted. If the repair affects concealed building piping or a shared system, permits, inspections, or building sign-off may be needed depending on the property and the scope. We identify those conditions after looking at the pipe, not from a stain alone."
+          ]
+        },
+        {
+          "heading": "Fixture location and access",
+          "paragraphs": [
+            "Before calling, note which room has the wet wall, ceiling mark, puddle, or hissing sound, and which fixture was running before it appeared. If you can see a valve, supply line, or pipe label, tell us the pipe material and any make or model printed on the valve body or fixture plate. Let us know whether water is actively running, whether the water meter is moving with fixtures off, and whether a local shutoff still closes. Mention if the pipe is under a sink, behind a cabinet, above a ceiling, in a basement, or inside a utility closet, since access affects the tools and fittings we bring. Call The Chicago Plumber at (847) 809-2341 before an active leak enlarges the wet area and damages more drywall, flooring, or framing."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sump-pump-repair",
+      "name": "Sump Pump Repair",
+      "stance": "the-house",
+      "h1": "Sump Pump Repair in Chicago, IL",
+      "title": "Sump Pump Repair in Chicago, IL | The Chicago Plumber",
+      "meta": "We repair sump pumps in Chicago, IL, checking the float, check valve, power supply, pit, and discharge line before basement water rises.",
+      "blurb": "Sump pump repairs for pits, floats, check valves, and discharge lines.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "Older Chicago homes with finished basements, laundry rooms below grade, or utility pits often rely on a sump pump that has been sitting idle between heavy rain events. The pump, float switch, check valve, and discharge pipe can all age without obvious warning, especially where the pit collects silt, gravel, or lint from nearby floor drains.",
+            "We work on sump pump setups across Chicago, Cicero, Stickney, and Oak Park, including pedestal pumps, submersible pumps, battery backup systems, and pits with exterior discharge lines. A pump may look normal until the water level reaches the float, when a seized impeller, failed switch, blocked outlet, or loose plug becomes clear.",
+            "A sump pump fault should not wait when water is rising in the pit, the basin is overflowing, or the pump is cycling without clearing water. Unlike a fixture drip, a failed pump can leave basement flooring, stored boxes, drywall, and appliances exposed to water during the next storm or snowmelt."
+          ]
+        },
+        {
+          "heading": "Pump humming, pit filling",
+          "paragraphs": [
+            "Customers often call us because the sump pump is humming but no water is leaving the pit. That sound can point to an impeller jammed by debris, a worn motor, or a discharge line that is blocked or frozen outside.",
+            "A pit that fills up while the pump stays silent can mean the float is stuck against the basin wall, the switch has failed, the outlet has lost power, or the GFCI receptacle has tripped. We also hear about pumps that run every few minutes after rain has stopped, which can come from a leaking check valve that lets water fall back into the pit.",
+            "Other signs include a vibrating discharge pipe, water returning through the outlet, a burning odor near the motor, or a pump that only starts when the float is lifted by hand. These symptoms can look alike from the basement floor, but the pump, switch, valve, and discharge line are separate faults with different repair work and different parts involved."
+          ]
+        },
+        {
+          "heading": "Sump pit inspection",
+          "paragraphs": [
+            "On a sump pump callout, we first check the pit water level, pump position, float travel, power cord, receptacle, and the condition of the basin cover. We test whether the float starts the pump and watch whether the water level drops rather than returning through the discharge pipe.",
+            "We inspect the check valve for an arrow pointing in the direction of flow, listen for reverse flow after the pump stops, and check visible discharge fittings for cracks or loose couplings. A typical functional check can take 15 to 30 minutes, while clearing a packed pit or tracing a concealed discharge route takes longer. We also confirm that the pump is properly supported above loose sediment so debris is less likely to enter the intake.",
+            "When the fault is a stuck float, failed check valve, loose connection, blocked intake, or accessible pump, we can often complete the repair during the same visit if the needed part is available. A replacement pump, a battery backup component, extensive discharge piping, or work requiring access beyond the utility room may need a follow-up visit after we identify the correct model and route."
+          ]
+        },
+        {
+          "heading": "Pump age and discharge access",
+          "paragraphs": [
+            "The age and condition of the pump affect the repair decision because a worn motor, damaged housing, or obsolete switch may make a replacement part impractical. The model plate on the motor helps us match the pump capacity, outlet size, cord arrangement, and float style instead of fitting a part that does not suit the pit.",
+            "Access to the sump basin and discharge pipe also changes the scope of work. A clear utility room with an exposed check valve is different from a pit behind stored shelving, a sealed cover, or a discharge line routed through finished walls, crawlspace areas, or an exterior wall.",
+            "A seized shutoff, corroded threaded fitting, cracked PVC coupling, or valve glued into an older discharge assembly can add work because the affected section may need to be cut out and rebuilt. If a specific pump, backup unit, lid, or fitting has to be ordered, the repair is shaped by that part and by whether the system can safely remain out of service while it is obtained."
+          ]
+        },
+        {
+          "heading": "Pump label and pit access",
+          "paragraphs": [
+            "Before calling, check the model number and make on the pump label, usually printed on the motor housing or under the basin cover. Let us know whether the pit is in a basement utility room, laundry area, crawlspace, or another lower-level room, and whether water is currently rising in the basin. If you can see the discharge pipe, note whether water is coming back into the pit after the pump stops. Clear boxes, shelving, and stored items away from the pit cover so we can reach the float, plug, and check valve. Call The Chicago Plumber at (847) 809-2341, because a rising pit can become an overflow that spreads water across the basement floor."
+          ]
+        }
+      ]
+    }
+  ],
+  "areas": [
+    "Chicago",
+    "Cicero",
+    "Stickney",
+    "Oak Park"
+  ],
+  "hours": [
+    {
+      "day": "Monday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "open": "Open 24 hours"
+    }
+  ],
+  "alt": {
+    "1": "A plumber tightening a fitting beneath a bathroom basin with an adjustable wrench",
+    "2": "A plumber crouched under a kitchen sink, working on the trap below a stainless steel bowl",
+    "3": "A plumber using a red-handled wrench on the pipework under a wooden vanity",
+    "4": "A plumber standing beside an open service van outside a house"
+  },
+  "cover": 4,
+  "logo": "assets/logo.png",
+  "structure": "ledger",
+  "home": {
+    "h1": "Plumbing Repair in Chicago, Illinois",
+    "sub": "We handle plumbing repairs and related work for homes and properties across Chicago, Cicero, Stickney, and Oak Park.",
+    "title": "The Chicago Plumber | Chicago, IL Plumbing",
+    "meta": "The Chicago Plumber provides drain, water heater, toilet, faucet, pipe leak, and sump pump repair in Chicago, IL, Cicero, Stickney, and Oak Park for local service.",
+    "aboutHeading": "Your Local Plumbing Company in Chicago, IL",
+    "about": [
+      "We work out of 210 N Racine Ave in Chicago, IL. From there, we serve plumbing customers in Chicago, Cicero, Stickney, and Oak Park, handling calls across these communities and nearby areas for residential and property plumbing needs.",
+      "The kinds of work we take on include drain cleaning, water heater repair, toilet repair, faucet repair, pipe leak repair, and sump pump repair. We repair existing plumbing components when practical and replace parts or equipment when replacement is needed.",
+      "A visit starts with a look at the affected fixture, drain, pipe, water heater, or pump and the connections around it. We check what is happening, look for visible signs of the issue, and discuss the work before anybody talks about money."
+    ]
+  },
+  "now": "2026-10-29T22:16:48.786Z"
+}
