@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://7-y.xyz/the-chicago-plumber/sitemap.xml
+Sitemap: https://the-chicago-plumber.7-y.xyz/sitemap.xml

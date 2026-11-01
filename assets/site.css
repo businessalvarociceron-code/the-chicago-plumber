@@ -18,16 +18,31 @@ img{max-width:100%;display:block}
 
 /* header */
 .ledger-head{background:var(--lg-card);border-bottom:1px solid var(--lg-rule);position:sticky;top:0;z-index:9}
-.ledger-head__row{display:flex;align-items:center;gap:1.5rem;min-height:76px}
+/* 84px, RAISED WITH THE LOGO. The row's height has to be settled before the
+   image loads or the header jumps as it arrives — which is why the mark
+   carries no width/height attributes. A 55px logo in a 76px row left four
+   pixels of air above and below it. */
+.ledger-head__row{display:flex;align-items:center;gap:1.5rem;min-height:96px}
 .ledger-brand{display:flex;align-items:center;gap:.7rem;margin-right:auto;text-decoration:none;color:inherit}
 .ledger-brand__glyph{width:42px;height:42px;border-radius:9px;background:var(--lg-accent);color:#fff;
   display:grid;place-items:center;font-family:Georgia,serif;font-size:19px;flex:0 0 auto}
-/* THE HEIGHT IS FIXED AND THE WIDTH FOLLOWS THE LOGO. It was a 42px SQUARE
-   with object-fit:contain, which letterboxes a wide lockup — a 400x90 logo
-   drew at about 42x9 and read as a smudge. Most trade logos are wider than
-   they are tall, so the dimension to pin is the height.
-   max-width keeps a very wide one from pushing the menu off the row. */
-.ledger-brand__mark{height:46px;width:auto;max-width:min(260px,46vw);object-fit:contain;
+/* THE HEIGHT IS FIXED AND THE WIDTH FOLLOWS THE LOGO. A 42px SQUARE with
+   object-fit:contain letterboxes a wide lockup — a 400x90 logo drew at about
+   42x9 and read as a smudge — so the dimension to pin is the height.
+
+   53px -> 70px ON 30 OCTOBER, AND THE REASON IS THE ASPECT RATIO RATHER THAN
+   THE NUMBER. Pinning height suits a WIDE lockup: at 4.4:1, 53px tall comes
+   out 235px wide and fills the header. Edwin's own logo is about 1.5:1, and
+   at 53px tall it came out 80px wide — the rule working exactly as written,
+   and a logo a third the presence of the one it was designed around.
+
+       PINNING ONE DIMENSION SIZES ONE SHAPE WELL
+       AND EVERY OTHER SHAPE BY ACCIDENT.
+
+   max-width is what protects the wide ones: at 70px tall a 4.4:1 lockup
+   wants 308px and is capped at 320, so it is unaffected. A squarer logo
+   gains the whole difference. */
+.ledger-brand__mark{height:70px;width:auto;max-width:min(320px,54vw);object-fit:contain;
   object-position:left center;flex:0 0 auto}
 .ledger-brand__name{font-family:Georgia,serif;font-size:17px;line-height:1.2}
 .ledger-brand__name small{display:block;font-family:inherit;font-size:12px;color:var(--lg-soft);
@@ -171,7 +186,7 @@ img{max-width:100%;display:block}
   .ledger-head__row{flex-wrap:wrap;min-height:0;padding-top:.75rem;padding-bottom:.1rem;gap:.8rem 1.2rem}
   /* The phone button shares the top row with the logo on a narrow screen,
      so the logo gives up a little height and a lot of width. */
-  .ledger-brand__mark{height:40px;max-width:min(190px,44vw)}
+  .ledger-brand__mark{height:60px;max-width:min(268px,54vw)}
   .ledger-menu{order:3;flex-basis:100%;flex-wrap:wrap;gap:.4rem 1.15rem;font-size:14.5px;
     border-top:1px solid var(--lg-rule);margin-top:.15rem;padding:.65rem 0}
   .ledger-drop__list{top:calc(100% + .7rem);left:-.9rem}
