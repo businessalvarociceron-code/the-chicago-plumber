@@ -363,7 +363,9 @@
   "logo": "assets/logo.png",
   "structure": "ledger",
   "imageSet": "set-1",
-  "verification": [],
+  "verification": [
+    "t-WSOT5DDPjE7xdvAIFPmEQd6k5cSTc2SVNDgyF5hII"
+  ],
   "home": {
     "sub": "We handle plumbing work for fixtures, pipes, drains, and water heaters at homes and properties across Chicago, Cicero, Stickney, and Oak Park.",
     "title": "The Chicago Plumber | Chicago, IL Plumbing",
@@ -373,7 +375,8 @@
       "We work from 210 N Racine Ave in Chicago, IL, and cover plumbing calls across Chicago, Cicero, Stickney, and Oak Park. Our crews travel from this Racine Avenue address to homes, apartments, storefronts, and other properties throughout the area.",
       "We take on drain cleaning, leak repair, toilet repair, water heater repair, faucet repair, and sewer line repair. We repair and replace fixtures, pipes, drains, water heaters, and sewer lines in kitchens, bathrooms, basements, utility rooms, and exterior areas.",
       "At a visit, we start by looking at the fixture, pipe, drain, shutoff valve, water heater, or sewer access involved. We check the visible condition and affected component before discussing money, repair work, or replacement options."
-    ]
+    ],
+    "servicesLede": "The six jobs we are called out for most. Each has a page of its own, with what the work involves and what changes the price."
   },
   "now": "2026-11-01T04:34:03.599Z"
 }
